@@ -1,0 +1,6 @@
+c:\users\nayara\documents\visual studio 2013\Projects\CompositePattern\CompositePattern\bin\Debug\CompositePattern.exe.config
+C:\Users\Nayara\Documents\Visual Studio 2013\Projects\CompositePattern\CompositePattern\bin\Debug\CompositePattern.exe
+C:\Users\Nayara\Documents\Visual Studio 2013\Projects\CompositePattern\CompositePattern\bin\Debug\CompositePattern.pdb
+C:\Users\Nayara\Documents\Visual Studio 2013\Projects\CompositePattern\CompositePattern\obj\Debug\CompositePattern.csprojResolveAssemblyReference.cache
+C:\Users\Nayara\Documents\Visual Studio 2013\Projects\CompositePattern\CompositePattern\obj\Debug\CompositePattern.exe
+C:\Users\Nayara\Documents\Visual Studio 2013\Projects\CompositePattern\CompositePattern\obj\Debug\CompositePattern.pdb
